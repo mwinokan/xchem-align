@@ -190,7 +190,7 @@ First to log in to Fragalysis and authenticate (for the staging server) and log 
 https://fragalysis.xchem.diamond.ac.uk/viewer/react/landing
 
 The gzipped tar file can then be uploaded to Fragalysis via (for the staging Fragalysis server):
-[/viewer/upload_tset/ page](https://fragalysis.xchem.diamond.ac.uk/api/upload_target_experiments/)
+[/api/upload_target_experiments](https://fragalysis.xchem.diamond.ac.uk/api/upload_target_experiments/) page
 
 ## 6. Creating subsequent versions
 
